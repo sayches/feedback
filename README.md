@@ -1,5 +1,7 @@
 # Public Feedback Discussions
 
+`Current Status: Private Beta`
+
 In this repository, you can find the [official Sayches public feedback discussions](https://github.com/Sayches/feedback/discussions), where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the Sayches team.
 
 Discussions here will be limited to the Sayches products. Any discussions opened for other topics will be resolved by redirecting the feedback to the appropriate channel or outright removal in the case of unacceptable behavior.
