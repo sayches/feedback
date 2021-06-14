@@ -2,8 +2,6 @@
 
 `Sayches Current Status: Private Beta`
 
-`PeerHunter Current Status: Public Beta`
-
 `Angry Fish Current Status: Stable Release`
 
 In this repository, you can find the [official Sayches public feedback discussions](https://github.com/Sayches/feedback/discussions), where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the Sayches team.
