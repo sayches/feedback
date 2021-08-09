@@ -1,6 +1,6 @@
 # Public Feedback Discussions
 
-`Sayches Current Status: Private Beta`
+`Sayches Current Status: Public Beta`
 
 `Angry Fish Current Status: Stable Release`
 
